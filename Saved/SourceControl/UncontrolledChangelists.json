@@ -5,28 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Unreal Engine/NinjaGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/16/XKEYG5RCSMOOLYIXAQ9PUU.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/4N/M0AUN9JYYER4ZKP59JJUA0.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/D/SR/V154FX7PUWTCVTCLSECL3M.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/K2/XCLIU3T5X80IYN8JT1857Q.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
-				"E:/Unreal Engine/NinjaGame/Content/ThirdPerson/BP_Shuriken.uasset"
+				"E:/Unreal Engine/NinjaGame_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/98/CRBZK89CA14SGCJUP0H5ZV.uasset"
 			]
 		}
 	]
