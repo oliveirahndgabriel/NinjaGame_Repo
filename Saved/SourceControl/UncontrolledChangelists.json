@@ -137,6 +137,7 @@
 				"E:/Unreal Engine/NinjaGame_Git/Content/Enemy/BP_EnemyController.uasset",
 				"E:/Unreal Engine/NinjaGame_Git/Content/Enemy/BT_Enemy.uasset",
 				"E:/Unreal Engine/NinjaGame_Git/Content/Enemy/BT_Tasks/BTT_CheckSight.uasset",
+				"E:/Unreal Engine/NinjaGame_Git/Content/Enemy/BT_Tasks/BTT_PatrolLocations.uasset",
 				"E:/Unreal Engine/NinjaGame_Git/Content/__ExternalActors__/ThirdPerson/Maps/Level1/1/ZE/2EV30GTPAP56M3YJ6GBJJ8.uasset",
 				"E:/Unreal Engine/NinjaGame_Git/Content/Characters/RaptorNinja/Char_Ninja_005_Bandana_001.uasset",
 				"E:/Unreal Engine/NinjaGame_Git/Content/Characters/RaptorNinja/Char_Ninja_005_Bracelete_001.uasset",
